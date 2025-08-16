@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Hi there 👋
 permalink: /about/
 ---
 
-## Hi there 👋
 My name is Slice, I've been coding since the start of 2020 with Discord bots.
 Since starting I've branched out to a wide range of areas through multiple projects.
 I hope to give you some insight into my development journey on this website here and share some cool findings.
