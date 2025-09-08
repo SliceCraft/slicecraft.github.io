@@ -2,6 +2,7 @@
 layout: post
 title: The power of git bisect
 date: 2025-09-08T18:00:00.000Z
+permalink: /post/2025-09-08-power-of-git-bisect
 published: true
 ---
 
