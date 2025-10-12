@@ -6,7 +6,7 @@ permalink: /post/2025-09-08-power-of-git-bisect
 published: true
 ---
 
-Git bisect isn't a tool I need to use often but in the few cases where I did use it it saved me a ton of time.
+Git bisect isn't a tool I need to use often but in the few cases where I did use it, it saved me a ton of time.
 Recently I was tasked with fixing a regression in a module.
 The bug was a sorting algorithm not activating.
 There were no exceptions and no steps required to trigger the bug apart from opening the list.
