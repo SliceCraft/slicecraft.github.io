@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy New Year 🎉🎉
-date: 2025-01-01T02:00:00.000Z
+date: 2026-01-01T02:00:00.000Z
 permalink: /post/2026-01-01-happy-new-year
 published: true
 ---
